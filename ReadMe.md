@@ -115,7 +115,7 @@ curl http://localhost:3000/tasks
 **Example: Get Tasks by Priority**
 ```bash
 curl http://localhost:3000/tasks/priority/high
-```
+```  
 
 ---
 
