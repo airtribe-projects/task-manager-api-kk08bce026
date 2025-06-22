@@ -41,6 +41,7 @@ app.get('/tasks/:id', (req, res) => {
 // GET /tasks: Retrieve all tasks with optional filtering and sorting
 app.get('/tasks', (req, res) => {
     let result = [...tasks];
+    
 
     // Filtering by completion status
     if (typeof req.query.completed !== 'undefined') {
