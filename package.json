@@ -19,5 +19,17 @@
   },
   "engines": {
     "node": ">= 18.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airtribe-projects/task-manager-api-kk08bce026.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/airtribe-projects/task-manager-api-kk08bce026/issues"
+  },
+  "homepage": "https://github.com/airtribe-projects/task-manager-api-kk08bce026#readme"
 }
