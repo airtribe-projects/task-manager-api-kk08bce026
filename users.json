@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin@gmail.com",
+      "password": "$2b$10$BWzD20AscgfGzcC3qUHYLuLCcQwV1AXovegebY3VlA8hQ2l0ZrkkS",
+      "preferences": {
+        "categories": [
+          "tech",
+          "finance"
+        ],
+        "languages": [
+          "en",
+          "hi"
+        ]
+      },
+      "read": [],
+      "favorites": [],
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "kk08bce026@gmail.com",
+      "password": "$2b$10$zvnxxgRMAxxdz057Z30O3.IqxQ5o8PWisKEEUCWaR.gfC5ets5tv.",
+      "read": [],
+      "favorites": [],
+      "role": "user"
+    }
+  ]
+}
